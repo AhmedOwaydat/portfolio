@@ -1,0 +1,27 @@
+.skills{
+    background: #0A0A0A;
+    color: #E9E9E9;
+    padding: 30px 0;
+}
+
+.skills h2{
+    margin-bottom: 50PX;
+    font-family: 'PT Serif', serif;
+    font-size: 50px;
+}
+
+.skills h3{
+    font-family: 'PT Serif', serif;
+    font-size: 30PX;
+}
+
+.skills .languages,
+.skills .concepts,
+.skills .technologies{
+    text-align: left;
+    border-left: 1px solid red;
+}
+
+.skills li{
+    font-family: 'Lora', serif;
+}

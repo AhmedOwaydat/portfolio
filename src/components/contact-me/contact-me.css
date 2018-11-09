@@ -1,0 +1,19 @@
+.contact-me{
+    background: #0A0A0A;
+    color: white;
+    min-height: 50px;
+    padding: 15px 0;
+}
+
+.contact-me p span img {
+    height: 20px;
+    width: 20px;
+    margin-right: 5px;
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .contact-me .container{
+        max-width: 990px !important;
+    }
+}

@@ -1,0 +1,59 @@
+.home{
+    background: url("../images/home_background1.jpg") fixed;
+    background-size: 100% 100%;
+}
+
+.home-overlay{
+    background-color: rgba(0, 0, 0, 0.9);
+    height: 100%;
+    width: 100%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.user-img{
+    height: 170px;
+    width: 170px;
+    margin-bottom: 20px;
+}
+
+.home h2{
+    font-size: 44px;
+    font-family: 'PT Serif', serif;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Lora', serif;
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+    
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+    .home{
+        height: 92vh;
+        max-height: 92vh;
+    }
+
+    .home p {
+        padding: 0 250px;
+    }
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    
+}
