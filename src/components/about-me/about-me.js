@@ -19,7 +19,7 @@ class aboutMe extends Component {
                             </div>
                         </div>
                         <div className="my-details col-lg-7 col-md-8 col-12">
-                            <h2 className="">Who Am I</h2>
+                            <h2 className="">WHO AM I</h2>
                             <p>I'm Ahmed Samir, I'm a Computer Science Ain-Shams university
                                 graduate 2018, I've worked on many projects as I'm graduated 
                                 from front end nanodegree program with experience in 

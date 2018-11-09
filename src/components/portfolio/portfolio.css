@@ -33,13 +33,14 @@
     left: 0;
     width: 100%;
     height: 100%;
-    display: none;
+    opacity: 0;
     transition: all 0.5s ease-in-out;
 }
 
 .portfolio .card:hover .card-overlay{
-    display: block;
+    opacity: 1;
 }
+
 .portfolio h2{
     font-size: 50px;
     font-family: 'PT Serif', serif;
