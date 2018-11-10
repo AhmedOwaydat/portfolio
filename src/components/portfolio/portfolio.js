@@ -42,8 +42,8 @@ class portfolio extends Component {
                 link: 'https://github.com/AhmedOwaydat/Front-End-Projects/tree/master/Front-End%20Nanodegree%20NTL/9%20-%20reactnd-project-myreads'
             },
             {
-                name: 'images/Portfolio',
-                description: "Front end website development, contains all my projects in web and my information",
+                name: 'Portfolio',
+                description: "Front end website developed with Reactjs, contains all my projects in web and my information",
                 img: 'images/portfolio.PNG',
                 link: '#'
             },
