@@ -27,13 +27,13 @@ class portfolio extends Component {
                 name: 'Neighborhood Map',
                 description: 'single-page application using React featuring a map to locate some places and view some information about it.',
                 img: 'images/Neighborhood-Map.PNG',
-                link: 'https://github.com/AhmedOwaydat/Front-End-Projects/tree/master/Front-End%20Nanodegree%20NTL/10%20-%20Neighborhood%20Map'
+                link: 'https://ntl10.netlify.com/'
             },
             {
                 name: 'Restaurant Reviews',
                 description: 'view restaurants and when click on any of them send you to another page to review restraint information and location',
                 img: 'images/restaurant-reviews.jpg',
-                link: 'https://github.com/AhmedOwaydat/Front-End-Projects/tree/master/Front-End%20Nanodegree%20NTL/8%20-%20restaurant'
+                link: 'https://restaurants-reviews.netlify.com/'
             },
             {
                 name: 'Myreads',
