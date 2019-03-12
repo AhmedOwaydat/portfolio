@@ -12,7 +12,7 @@ class aboutMe extends Component {
                             <div>
                                 <ul>
                                     <li><a href="https://www.facebook.com/AhmedSamir.ASO" rel="noopener noreferrer" target="_blank"><img src="images/Facebook-Logo.png" className="img-fluid" alt="facebook"/></a></li>
-                                    <li><a href="https://github.com/AhmedOwaydat/Front-End-Projects" rel="noopener noreferrer" target="_blank"><img src="images/Github-icon.png" className="img-fluid" alt="github"/></a></li>
+                                    <li><a href="https://github.com/AhmedOwaydat" rel="noopener noreferrer" target="_blank"><img src="images/Github-icon.png" className="img-fluid" alt="github"/></a></li>
                                     <li><a href="https://www.linkedin.com/in/ahmed-samir-ali-579234140/" rel="noopener noreferrer" target="_blank"><img src="images/linkedin-icon.png" className="img-fluid" alt="linkedin"/></a></li>
                                     <li><a href="mailto:ahmed.samer@cis.asu.edu.eg"><img src="images/email-icon.png" className="img-fluid" alt="email"/></a></li>
                                 </ul>
